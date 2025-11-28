@@ -1,4 +1,4 @@
-# Hi, I'm Lateef Mustapha 👋
+# Hi, I'm Lateef Mustapha 
 
 **DevOps Engineer | Cloud | Kubernetes | Automation | Security**
 
@@ -24,7 +24,7 @@ I'm a DevOps & Cloud Engineer focused on building scalable infrastructure, autom
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### **1. Terraform AWS VPC Module**
 
@@ -52,7 +52,7 @@ Prometheus Operator, Grafana dashboards, Loki logs, and Jaeger traces.
 
 ---
 
-## 📈 What I'm Working On
+##  What I'm Working On
 
 * Mastering Kubernetes automation and GitOps workflows
 * Building reusable Terraform modules
@@ -61,9 +61,10 @@ Prometheus Operator, Grafana dashboards, Loki logs, and Jaeger traces.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 **LinkedIn:** [https://www.linkedin.com/in/lateefmustapha](https://www.linkedin.com/in/lateefmustapha)
+**E-mail** latmusde04@gmail.com
 
 Feel free to reach out — I'm always open to collaborating on DevOps, cloud, and security projects!
 
